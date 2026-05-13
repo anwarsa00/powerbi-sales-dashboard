@@ -1,4 +1,4 @@
-ر📊 Power BI & Machine Learning Dashboard – Analysis Summary
+📊 Power BI & Machine Learning Dashboard – Analysis Summary
 🎯 Overview
 
 Built an end-to-end project using:
